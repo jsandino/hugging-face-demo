@@ -10,5 +10,8 @@ lint:
 	
 test:
 	python -m pytest -vv --cov=prescan tests
+
+run:
+	python app.py
 	
 all: install lint test format
