@@ -1,3 +1,4 @@
+[![Sync to Hugging Face Hub](https://github.com/jsandino/hugging-face-demo/actions/workflows/main.yml/badge.svg)](https://github.com/jsandino/hugging-face-demo/actions/workflows/main.yml)
 ---
 title: Demo Space
 emoji: 🌕
