@@ -2,7 +2,7 @@
 title: Demo Space
 emoji: 🌕
 colorFrom: yellow
-colorTo: orange
+colorTo: red
 sdk: gradio
 app_file: app.py
 pinned: false
