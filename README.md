@@ -1,6 +1,7 @@
 ---
 title: Demo Space
 emoji: 🌕
+python_version: 3.11.9
 colorFrom: yellow
 colorTo: red
 sdk: gradio
