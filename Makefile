@@ -6,10 +6,10 @@ format:
 	black *py
 	
 lint:
-	pylint --disable=R,C hello.py
+	pylint --disable=R,C app.py
 	
 test:
-	python -m pytest -vv --cov=prescan tests
+	python -m pytest -vv tests
 
 run:
 	python app.py
